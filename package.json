@@ -1,0 +1,22 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "learning jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-liss/learn-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremy-liss/learn-jest/issues"
+  },
+  "homepage": "https://github.com/jeremy-liss/learn-jest#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
